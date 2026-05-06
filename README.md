@@ -1,5 +1,15 @@
 # skill-validator
 
+---
+## ⚒ Get the Full Toolkit
+
+This skill is free forever. Want the complete Skill Engineering Pack?
+
+**[Starter Pack — 4 skills — $29](https://anvilandcode.gumroad.com/l/xmixxz)**
+**[Engineer's Edition — all 12 skills — $99](https://anvilandcode.gumroad.com/l/vxvgtc)**
+
+---
+
 **Anvil & Code — Free**
 
 Audits SKILL.md files for structural issues, missing fields, weak triggering descriptions,
