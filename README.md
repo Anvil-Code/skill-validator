@@ -63,7 +63,7 @@ The Skill Engineering Pack includes 10 more skills for building production-grade
 `skill-bundler`, `skill-doc-generator`, `prompt-compressor`, `progressive-disclosure-organizer`,
 `skill-marketplace-formatter`, and `license-key-injector`.
 
-[Get the Engineer's Edition — all 12 skills →](https://gumroad.com/anvilandcode)
+[Get the Engineer's Edition — all 12 skills →](https://anvilandcode.gumroad.com/l/vxvgtc)
 
 ---
 
