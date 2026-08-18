@@ -1,12 +1,5 @@
 # skill-validator
 
----
-## ⚒ Get the Full Toolkit
-
-This skill is free forever. Want the complete Skill Engineering Pack?
-
-**[Starter Pack — 4 skills — $29](https://anvilandcode.gumroad.com/l/xmixxz)**
-**[Engineer's Edition — all 12 skills — $99](https://anvilandcode.gumroad.com/l/vxvgtc)**
 
 ---
 
@@ -54,16 +47,6 @@ A scored report (0–10) with:
 `skill-validator` and `description-optimizer` are permanently free from Anvil & Code.
 Good tools make the whole ecosystem better.
 
----
-
-## Want the Full Toolkit?
-
-The Skill Engineering Pack includes 10 more skills for building production-grade Claude skills:
-`skill-scaffolder`, `skill-security-auditor`, `skill-tester`, `multi-platform-converter`,
-`skill-bundler`, `skill-doc-generator`, `prompt-compressor`, `progressive-disclosure-organizer`,
-`skill-marketplace-formatter`, and `license-key-injector`.
-
-[Get the Engineer's Edition — all 12 skills →](https://anvilandcode.gumroad.com/l/vxvgtc)
 
 ---
 
