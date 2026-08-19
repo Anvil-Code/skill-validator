@@ -25,7 +25,7 @@ The validator catches all of this before you ship.
 ## Installation
 
 1. Download `SKILL.md` from this package
-2. Go to [claude.ai](https://claude.ai) → Projects → your project
+2. Open [Claude Projects](https://support.claude.com/en/articles/9517075-what-are-projects) and choose your project
 3. Click **Add content** and upload `SKILL.md`
 4. Paste your skill file into a chat and say: "Validate this skill"
 
